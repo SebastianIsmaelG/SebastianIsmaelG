@@ -7,7 +7,7 @@
 
 <h3 align="left">📩 Contacto:</h3>
 
-[![Contact](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/sebastiangutierrez-s)
+[![Contact](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/sebastiangutierrezs)
 [![Contact](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/_sebastian_ismael)
 <a href="mailto:gutierrezs.dev@outlook.com">![Contact](https://skillicons.dev/icons?i=gmail&theme=light)</a><br>
 ![](https://komarev.com/ghpvc/?username=SebastianIsmaelG&color=brightgreen&style=for-the-badge)
