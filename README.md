@@ -1,9 +1,9 @@
 
 <h3 align="left">👨‍💻 Stack de desarollo:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,php,kotlin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,php,kotlin&theme=light)](https://skillicons.dev)
 
-[![My Skills2](https://skillicons.dev/icons?i=mysql,mongodb,nodejs,firebase,postgres&theme=light)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,postgres&theme=light)](https://skillicons.dev)
 
 <h3 align="left">📩 Contacto:</h3>
 
