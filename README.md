@@ -14,5 +14,5 @@
 
 
 <img src="https://i.ibb.co/sHmJZXy/Prancheta-3.png" alt="Prancheta-3" border="0" style="max-width:50%;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianismaelg&" alt="sebastianismaelg" /></p>
+<p><img src="https://myreadme.vercel.app/api/embed/sebastianismaelg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
