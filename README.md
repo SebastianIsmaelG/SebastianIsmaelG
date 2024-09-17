@@ -14,3 +14,9 @@
 
 
 <img src="https://i.ibb.co/sHmJZXy/Prancheta-3.png" alt="Prancheta-3" border="0" style="max-width:50%;">
+
+<p align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=il12t91784ppkg0tw3skry8sm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=il12t91784ppkg0tw3skry8sm&redirect=true)
+  
+</p>
