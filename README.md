@@ -5,7 +5,7 @@
 
 [![My Skills2](https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,postgres&theme=light)](https://skillicons.dev)
 
-<img src="https://i.ibb.co/sHmJZXy/Prancheta-3.png" alt="Prancheta-3" border="0" style="max-width:30%;">
+<img src="https://i.ibb.co/sHmJZXy/Prancheta-3.png" alt="Prancheta-3" border="0" style="width:30% !important;">
 
 <h3 align="left">📩 Contacto:</h3>
 
