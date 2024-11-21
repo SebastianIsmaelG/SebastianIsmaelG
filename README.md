@@ -10,7 +10,7 @@
 [![Contact](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/sebastiangutierrezs)
 [![Contact](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/_sebastian_ismael)
 <a href="mailto:gutierrezs.dev@outlook.com">![Contact](https://skillicons.dev/icons?i=gmail&theme=light)</a><br>
-![Profile views](https://komarev.com/ghpvc/?username=SebastianIsmaelG&color=brightgreen&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=SebastianIsmaelG&color=brightgreen&style=for-the-badge&abbreviated=true)
 
 <table>
   <tr>
