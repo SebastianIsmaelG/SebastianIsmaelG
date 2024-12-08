@@ -14,8 +14,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://i.ibb.co/sHmJZXy/Prancheta-3.png" alt="Prancheta-3" border="0" ></td>
-    <td valign="top"><img src="https://i.ibb.co/pKHG9dv/Badge-Conversor.png" alt="Badge-Conversor" border="0"></td>
+    <td valign="top"><img src="https://i.ibb.co/sHmJZXy/Prancheta-3.png" alt="Prancheta-Github" border="0" ></td>
+    <td valign="top"><img src="https://i.ibb.co/sP4VVVj/badge-literalura.png" alt="Badge-SpingBoot" border="0"></td> 
   </tr>
 </table>
 
