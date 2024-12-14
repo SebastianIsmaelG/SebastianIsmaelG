@@ -12,11 +12,15 @@
 <a href="mailto:gutierrezs.dev@outlook.com">![Contact](https://skillicons.dev/icons?i=gmail&theme=light)</a><br>
 ![Profile views](https://komarev.com/ghpvc/?username=SebastianIsmaelG&color=brightgreen&style=for-the-badge&abbreviated=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianIsmaelG" alt="Top Langs" /> 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=il12t91784ppkg0tw3skry8sm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianIsmaelG&theme=city_lights)
+<div align="left">
+ <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianIsmaelG&theme=github_dark_dimmed" alt="Top Langs" />
+ </p>
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=il12t91784ppkg0tw3skry8sm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
+</div>
+ 
 
 
