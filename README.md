@@ -15,13 +15,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianIsmaelG&theme=city_lights)
 
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
-    <a href="#" style="text-decoration:none!important">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianIsmaelG&layout=pie&langs_count=8&theme=dark"/>
-    </a>
- 
-   <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianIsmaelG&layout=pie&langs_count=8&theme=dark"/>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=il12t91784ppkg0tw3skry8sm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile" />
-   </a>
 </div>
 
  
