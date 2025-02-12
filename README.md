@@ -11,8 +11,10 @@
 [![Contact](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/_sebastian_ismael)
 <a href="mailto:gutierrezs.dev@outlook.com">![Contact](https://skillicons.dev/icons?i=gmail&theme=light)</a><br>
 ![Profile views](https://komarev.com/ghpvc/?username=SebastianIsmaelG&color=brightgreen&style=for-the-badge&abbreviated=true)
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianIsmaelG&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianIsmaelG&theme=react)
+![SebastianIsmaelG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianIsmaelG&theme=react&hide_border=true)
 
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianIsmaelG&layout=pie&langs_count=8&theme=dark"/>
