@@ -46,7 +46,6 @@
 <h3 align="left">📩 Contacto:</h3>
 
 [![Contact Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/sebastiangutierrezs)
-[![Contact Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/_sebastian_ismael)
 <a href="mailto:gutierrezs.contacto@gmail.com">![Contact Gmail](https://skillicons.dev/icons?i=gmail&theme=light)</a><br>
 ![Profile views](https://komarev.com/ghpvc/?username=SebastianIsmaelG&color=brightgreen&style=for-the-badge&abbreviated=true)
 ---
